@@ -1,6 +1,6 @@
 ### Hi there 👋, Mehjabin Rashid Jerin
 #### Hi, I'm a MERN STACK Web Developer.
-![Hi, I'm a MERN STACK Web Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Hi, I'm a MERN STACK Web Developer.](https://www.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_38669465.htm#fromView=keyword&page=1&position=12&uuid=547096b6-8548-44d5-ab20-446683e04802&query=Github+Cover)
 
 Passionate full-stack developer actively learning and building modern web applications using the MERN stack. I specialize in creating responsive, fast, and scalable solutions that enhance user experiences. Through hands-on projects, I’ve developed functional applications and enjoy collaborating on meaningful builds. Let’s connect and create something awesome!
 
